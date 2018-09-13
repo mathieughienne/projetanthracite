@@ -17,7 +17,8 @@ li{
 	font-size: 25px;
 	display: inline;
 	padding: 50px;
-	padding-right: 50px
+	padding-right: 50px;
+	text-decoration: none;
 
 
 }
@@ -33,9 +34,13 @@ body	{
 
 
 }
+a{
+	text-decoration: none;
+	color: white;
+}
 .pantone { background-color: #A5A5B9;
 			width: auto;
-			height: 1080px; }
+			height: 2600px; }
 .texte1{
 		position: relative;
 	margin-left: 800px;
@@ -51,7 +56,7 @@ body	{
  
 		width:500px;
 	height:200px;
-	top: -200px;
+	top: -130px;
 	}
 
 	.texte3{
@@ -60,12 +65,46 @@ body	{
  
 		width:400px;
 	height:200px;
-	top: -180px;
+	top: 150px;
+}
+.texte4{
 
-
+	position: relative;
+	margin-left: 800px;
+ 
+		width:400px;
+	height:200px;
+	top: 300px;
 
 
 }
+.texte5{
+
+	position: relative;
+	margin-left: 800px;
+ 
+		width:400px;
+	height:200px;
+	top: 500px;
+
+
+}
+.texte6{
+
+	position: relative;
+	margin-left: 800px;
+ 
+		width:400px;
+	height:200px;
+	top: 700px;
+
+
+}
+
+
+
+
+
 .anthracite { 
 	position: relative;
 	margin-left: 200px;
@@ -86,6 +125,23 @@ body	{
 
 	}
 
+.A1{
+	position: relative;
+	margin-left: 200px;
+ 
+		width:400px;
+	height:300px;
+	top: -600px;
+}
+.deco{
+	position: relative;
+	margin-left: -400px;
+ 
+		width:400px;
+	height:300px;
+	top: 190px;
+
+}
 
 
 font-family: 'Titillium Web', sans-serif;
@@ -266,3 +322,5 @@ body {
   clip: rect(0, 900px, 0, 0);
   animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
+
+
