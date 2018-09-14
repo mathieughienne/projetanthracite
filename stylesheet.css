@@ -12,7 +12,11 @@ ul{
 
 
 }
+img {
 
+
+
+}
 li{
 	font-size: 25px;
 	display: inline;
@@ -30,6 +34,7 @@ nav	{	padding-top: 20px;
 }
 body	{	
 			font-family: 'Raleway', sans-serif;
+			height: auto;
 
 
 
@@ -40,7 +45,43 @@ a{
 }
 .pantone { background-color: #A5A5B9;
 			width: auto;
-			height: 2600px; }
+			height: 4000px; }
+
+
+.fond1 {height: 500px;
+		width: auto;
+		background-color: #28282D;
+
+}
+.fond2 {height: 500px;
+		width: auto;
+		background-color: #28282D;
+}
+.fond3 {height: 500px;
+		width: auto;
+		background-color: #28282D;
+}
+.fond4 {height: 500px;
+		width: auto;
+		background-color: #28282D;
+}
+.fond5 {height: 500px;
+		width: auto;
+		background-color: #28282D;
+}
+.fond6 {height: 1000px;
+		width: auto;
+		background-color: #28282D;
+}
+
+
+
+
+
+
+
+
+
 .texte1{
 		position: relative;
 	margin-left: 800px;
@@ -60,18 +101,21 @@ a{
 	}
 
 	.texte3{
-		position: relative;
-	margin-left: 800px;
+position: relative;
+margin-left: 800px;
  
 		width:400px;
-	height:200px;
-	top: 150px;
+
+	color: #C0C0C0;
+	top: -300px;
+	margin-bottom: 200px;
+
 }
 .texte4{
 
 	position: relative;
 	margin-left: 800px;
- 
+ 	color: #C0C0C0;
 		width:400px;
 	height:200px;
 	top: 300px;
@@ -82,7 +126,7 @@ a{
 
 	position: relative;
 	margin-left: 800px;
- 
+ 	color: #C0C0C0;
 		width:400px;
 	height:200px;
 	top: 500px;
@@ -93,8 +137,8 @@ a{
 
 	position: relative;
 	margin-left: 800px;
- 
-		width:400px;
+ 	color:#C0C0C0;
+		width:400px	;
 	height:200px;
 	top: 700px;
 
@@ -126,12 +170,14 @@ a{
 	}
 
 .A1{
-	position: relative;
+	
 	margin-left: 200px;
  
-		width:400px;
+		width:500px;
 	height:300px;
 	top: -600px;
+	margin-top: 100px;
+
 }
 .deco{
 	position: relative;
@@ -140,6 +186,9 @@ a{
 		width:400px;
 	height:300px;
 	top: 190px;
+
+	
+
 
 }
 
